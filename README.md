@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 # Shiny applets
 
@@ -15,19 +15,39 @@ You can click on the following links:
 
 
 + For the demo presenting standard distributions  
-      * <https://georgios-stats.shinyapps.io/demo_distributions/>  
+
+      * <https://georgios-stats.shinyapps.io/demo_distributions/>    
+      
++ For the demo presenting Multivariate distributions
+  * <https://georgios-stats-3.shinyapps.io/demo_MultivariateNormalDistribution/> 
+      
 + For the demo presenting Central Limit Theorem  
-      * <https://georgios-stats.shinyapps.io/demo_clt/>  
+
+  * <https://georgios-stats.shinyapps.io/demo_clt/>  
+      
 + For the demo presenting the Weak Law of Large Numbers  
-      * <https://georgios-stats.shinyapps.io/demo_wlln/>  
+
+  * <https://georgios-stats.shinyapps.io/demo_wlln/>  
+      
 + For the demo presenting the conjugate priors  
-      * <https://georgios-stats-1.shinyapps.io/demo_conjugatepriors/>  
+
+  * <https://georgios-stats-1.shinyapps.io/demo_conjugatepriors/>  
+      
 + For the demo comparing Conjugate Jeffreys and Laplace priors  
-      * <https://georgios-stats-1.shinyapps.io/demo_conjugatejeffreyslaplacepriors/>  
+
+  * <https://georgios-stats-1.shinyapps.io/demo_conjugatejeffreyslaplacepriors/>  
+      
 + For the demo presenting the Mixture priors  
-      * <https://georgios-stats-1.shinyapps.io/demo_mixturepriors/>  
-  * For the demo presenting standard parametric/predictive Bayes point estimators
-      * <https://georgios-stats-1.shinyapps.io/demo_PointEstimation/> 
+
+  * <https://georgios-stats-1.shinyapps.io/demo_mixturepriors/>  
+      
++ For the demo presenting standard parametric/predictive Bayes point estimators  
+
+  * <https://georgios-stats-1.shinyapps.io/demo_PointEstimation/>   
+      
++ For the demo presenting Credible intervals   
+
+  * <https://georgios-stats-1.shinyapps.io/demo_CredibleSets/> 
 
 These applications are currently uploaded on non-Durham Univertity server, which means that we have only 25 active hours per mounth. If we exceed this limit, you will be able to run these applications localy on your computer by dowlnoaded them. (see below.)
 
