@@ -61,8 +61,10 @@ In order to download, edit, run the Web Applets to your computer, do the followi
   3. In the section "Repository URL" type: 
       * https://github.com/georgios-stats/Shiny_applets.git    
   4. Then you can run the applications either by clicking and running each 'name'.Rmd script in the demo_'name', or by running the commands: 
-      * For the demo presenting standard distributions
+      * For the demo presenting standard univariate distributions
           * rmarkdown::run("./demo_distributions/demo_distributions.Rmd")
+      * For the demo presenting standard multivariate distributions
+          * rmarkdown::run("./demo_MultivariateNormalDistribution/demo_MultivariateNormalDistribution.Rmd")
       * For the demo presenting Central Limit Theorem
           * rmarkdown::run("./demo_CLT/demo_CLT.Rmd")
       * For the demo presenting the Weak Law of Large Numbers
@@ -75,5 +77,7 @@ In order to download, edit, run the Web Applets to your computer, do the followi
           * rmarkdown::run("./demo_MixturePriors/demo_MixturePriors.Rmd")
       * For the demo presenting standard parametric/predictive Bayes point estimators
           * rmarkdown::run("./demo_PointEstimation/demo_PointEstimation.Rmd")
+      * For the demo presenting Credible intervals  
+          * rmarkdown::run("./demo_CredibleSets/demo_CredibleSets.Rmd")
           
           
