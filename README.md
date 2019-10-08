@@ -7,8 +7,6 @@ output:
 
 Here is a list of interactive shiny applications related that can be used to understand as a suplamentary material. 
 
-To use these applications run *rstudio*, and set your workspace to be *Bayesian_Statistics* .
-
 ## How to run the Web Applets from the server 
 
 You can click on the following links:  
@@ -50,7 +48,9 @@ You can click on the following links:
 
 These applications are currently uploaded on non-Durham Univertity server, which means that we have only 25 active hours per mounth. If we exceed this limit, you will be able to run these applications localy on your computer by dowlnoaded them. (see below.)
 
+
 ## How to download the Web Applets and run them localy
+
 
 In order to download, edit, run the Web Applets to your computer, do the following:
 
