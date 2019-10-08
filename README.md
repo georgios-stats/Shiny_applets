@@ -15,8 +15,7 @@ You can click on the following links:
 
 
 + For the demo presenting standard distributions  
-
-      * <https://georgios-stats.shinyapps.io/demo_distributions/>    
+  * <https://georgios-stats.shinyapps.io/demo_distributions/>    
       
 + For the demo presenting Multivariate distributions
   * <https://georgios-stats-3.shinyapps.io/demo_MultivariateNormalDistribution/> 
@@ -60,7 +59,7 @@ In order to download, edit, run the Web Applets to your computer, do the followi
       * install.packages("rmarkdown")
   2. Go to File>New Project>Version Control>Git  
   3. In the section "Repository URL" type: 
-      * https://github.com/georgios-stats/Bayesian_Statistics.git
+      * https://github.com/georgios-stats/Shiny_applets.git    
   4. Then you can run the applications either by clicking and running each 'name'.Rmd script in the demo_'name', or by running the commands: 
       * For the demo presenting standard distributions
           * rmarkdown::run("./demo_distributions/demo_distributions.Rmd")
