@@ -13,9 +13,11 @@ You can click on the following links:
 
 
 + For the demo presenting standard distributions  
+
   * <https://georgios-stats.shinyapps.io/demo_distributions/>    
       
-+ For the demo presenting Multivariate distributions
++ For the demo presenting Multivariate distributions  
+
   * <https://georgios-stats-3.shinyapps.io/demo_MultivariateNormalDistribution/> 
       
 + For the demo presenting Central Limit Theorem  
