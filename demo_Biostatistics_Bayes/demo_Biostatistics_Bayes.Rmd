@@ -1,6 +1,7 @@
 <!-- -------------------------------------------------------------------------------- -->
 
-<!-- Copyright 2017 Georgios Karagiannis -->
+<!-- Copyright (C) 2017  Georgios Karagiannis -->
+<!-- georgios.karagiannis@durham.ac.uk -->
 
 <!-- This file is part of Shiny_applets   -->
 

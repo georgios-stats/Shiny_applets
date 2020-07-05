@@ -1,4 +1,27 @@
 
+
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- Copyright (C) 2017  Georgios Karagiannis -->
+<!-- georgios.karagiannis@durham.ac.uk -->
+
+<!-- This file is part of Shiny_applets   -->
+
+<!-- Shiny_applets is free software: you can redistribute it and/or modify -->
+<!-- it under the terms of the GNU General Public License as published by -->
+<!-- the Free Software Foundation version 3 of the License. -->
+
+<!-- Shiny_applets is distributed in the hope that it will be useful, -->
+<!-- but WITHOUT ANY WARRANTY; without even the implied warranty of -->
+<!-- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the -->
+<!-- GNU General Public License for more details. -->
+
+<!-- You should have received a copy of the GNU General Public License -->
+<!-- along with Shiny_applets  If not, see <http://www.gnu.org/licenses/>. -->
+
+<!-- -------------------------------------------------------------------------------- -->
+
+
 # Shiny applets
 
 Here is a list of interactive shiny applications related that can be used to understand as a suplamentary material. 
