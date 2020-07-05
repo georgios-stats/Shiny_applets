@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+
 
 <!-- -------------------------------------------------------------------------------- -->
 
@@ -24,7 +24,7 @@
 
 
 =======
->>>>>>> 7e3ef553cb6d093f769b5774b543d0fc848564cd
+
 # Shiny applets
 
 Here is a list of interactive shiny applications related that can be used to understand as a suplamentary material. 
